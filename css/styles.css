@@ -1,0 +1,23 @@
+.intro {
+  font-family: monospace;
+}
+
+.scary {
+  font-style: italic;
+  color: red;
+}
+
+h1 {
+  text-align: center;
+  font-size: 130px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 20px;
+  line-height: 250px;
+}
